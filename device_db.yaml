@@ -3936,8 +3936,8 @@ SWITCH_BSEED_TOUCH_MELODY_TS0001:
   stock_image_type: 54179
   firmware_image_type: 43583
   build: yes
-  status: mostly_supported
-  info: Blue LED always on (specific dimming implementation?)
+  status: fully_supported
+  info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/248
   store:
   - https://www.bseed.com/products/bseed-zigbee-1-2-3gang-1-2-3way-switch-wall-smart-light-switch-for-staircase?variant=42163562053787
@@ -3951,23 +3951,23 @@ SWITCH_BSEED_TOUCH_MELODY_TS0002:
   output: relay
   device_type: router
   stock_model_name: TS0002
-  stock_manufacturer_name: null
+  stock_manufacturer_name: _TZ3000_mklgayek
   stock_converter_manufacturer: Tuya
   stock_converter_model: TS0002
   override_z2m_device: null
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: null    ;TS0002-BSMN;LA0i;SC3u;RC2;SB7u;RB4;M;
+  config_str: mklgayek;TS0002-BSMN;LA0i;SC3u;RC2;SB7u;RB4;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 43584
-  build: no
-  status: in_progress
-  info: Needs ID and pinout confirmation
+  build: yes
+  status: fully_supported
+  info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/248
   store:
   - https://www.bseed.com/products/bseed-zigbee-1-2-3gang-1-2-3way-switch-wall-smart-light-switch-for-staircase?variant=42163562086555
