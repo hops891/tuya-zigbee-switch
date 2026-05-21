@@ -124,6 +124,8 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
     {% set category = "🇵" %}
   {% elif device.category == "board" %}
     {% set category = "🇧" %}
+  {% elif device.category == "din_relay" %}
+    {% set category = "🇩" %}
   {% else %}
     {% set category = "❓" %}
   {% endif %}

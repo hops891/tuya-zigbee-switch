@@ -148,7 +148,7 @@ BOARD__SCIMAGIC_TS0001:
   info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/330
   store: https://aliexpress.com/item/1005004657817159.html
-BOARD__SCIMAGIC_TS0002 :
+BOARD__SCIMAGIC_TS0002:
   human_name: Scimagic ZG-2002-RF 🅰
   category: board
   power: mains
@@ -175,7 +175,7 @@ BOARD__SCIMAGIC_TS0002 :
   info: No RF, inching, power-on behavior??
   threads: https://github.com/romasku/tuya-zigbee-switch/pull/282
   store: https://www.aliexpress.com/item/1005009646584697.html
-BOARD__SCIMAGIC_TS0002_1 :
+BOARD__SCIMAGIC_TS0002_1:
   human_name: Scimagic ZG-2002-RF 🅱
   category: board
   power: mains
@@ -229,6 +229,33 @@ BOARD__ZIGBEE_ZTU_2:
   info: Supported
   threads: null
   store: https://www.aliexpress.com/item/1005007599675462.html
+DIN_RELAY_TUYA_TS011F_PM:
+  human_name: Tuya DIN circuit breaker
+  category: din_relay
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS011F
+  stock_manufacturer_name: _TZ3210_vbfp8eyv
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS011F_din_smart_relay
+  override_z2m_device: null
+  tuya_module: ZTU
+  mcu_family: Telink
+  mcu: TLSR825x
+  config_str: vbfp8eyv;TS011F-TD;LC4;SC0u;RD7;IB6;M;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 45599
+  build: yes
+  status: in_progress
+  info: Power monitoring not implemented
+  threads: null
+  store: https://www.aliexpress.com/item/1005008782778996.html
 MODULE_AUBESS_TS0001:
   human_name: Aubess WHD02
   category: module

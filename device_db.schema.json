@@ -13,7 +13,7 @@
         },
         "category": {
           "type": "string",
-          "enum": ["module", "switch", "remote", "outlet", "board", "plug"],
+          "enum": ["module", "switch", "remote", "outlet", "board", "plug", "din_relay"],
           "description": "Device category"
         },
         "power": {
