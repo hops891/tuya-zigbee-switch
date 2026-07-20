@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-4753f426-forced.zigbee",
+    "fileName": "tlc_switch-1.1.2-e35dc23b-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180994,
-    "url": "https://github.com/hops891/tuya-zigbee-switch/raw/26d8a3a4149cc3bfe8e3d6b4e18d610615574349/bin/router/AQARA_E1/tlc_switch-1.1.2-4753f426-forced.zigbee",
+    "url": "https://github.com/hops891/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_HOBEIAN_TS0001_2/tlc_switch-1.1.2-e35dc23b-forced.zigbee",
     "imageType": 45579,
     "manufacturerCode": 4417,
-    "sha512": "17ef5e5958dfb2382d419d8e9226b1c1c6ee0014e8ebffe34cbcac00ded40cbd46f09e548a08cc1984ca409120b24b5518ddfe600ae5639d4915bc6e07b73f0e",
+    "sha512": "cb47b46d8398641730c9b421051cdc75baf2aa3cadc0f0ba62aeddd05b98d9abc8186d25e7e86c35544e5144ff6cd777eaae760f2809bc8998af3d6a0d0e5193",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "LUMI"

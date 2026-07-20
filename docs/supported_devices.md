@@ -41,6 +41,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
-| 🟩 | ✔️ | 🇸 | 🔌 | ➿ | **TL** | `unknown` <br> `LUMI SWITCH` | [lumi.switch.b2nc01](https://www.zigbee2mqtt.io/devices/LUMI.html) |   | [`#189`](https://github.com/romasku/tuya-zigbee-switch/issues/189) [`#289`](https://github.com/romasku/tuya-zigbee-switch/issues/289) | Supported | 
+| 🟩 | ✔️ | 🇲 | 🔌 | ➿ | **TL** | `unknown` <br> `ZG-301Z` | [HOBEIAN ZG-301Z V2.0](https://www.zigbee2mqtt.io/devices/ZG-301Z.html) |   | [`#189`](https://github.com/romasku/tuya-zigbee-switch/issues/189) [`#289`](https://github.com/romasku/tuya-zigbee-switch/issues/289) | Supported | 
 
 Data from [`device_db.yaml`](/device_db.yaml)

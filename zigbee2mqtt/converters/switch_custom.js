@@ -362,7 +362,7 @@ const definitions = [
         zigbeeModel: [
             "lumi.switch.b2nc01",
         ],
-        model: "LUMI",
+        model: "ZG-301Z",
         vendor: "Tuya-custom",
         description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
         extend: [
