@@ -1,32 +1,18 @@
-# yaml-language-server: $schema=./device_db.schema.json
-
-# ========== Device database ========== 
-# 
-# Please refer to device_db_explained.md
-# 
-# And use the schema for validation!
-#   (e.g. in VSCode with YAML extension)
-# 
-# Rules:
-# - Follow the format
-# - Fill empty values with null
-# - Keep KEYs in (mostly) alphabetical order
-# - Keep attributes in the same order
-AQARA_E1:
-  human_name: lumi.switch.b2nc01
-  category: switch
+MODULE_HOBEIAN_TS0001_2:
+  human_name: HOBEIAN ZG-301Z V2.0
+  category: module
   power: mains
   neutral: required
   output: relay
   device_type: router
-  stock_model_name: LUMI SWITCH
+  stock_model_name: ZG-301Z
   stock_manufacturer_name: null
   stock_converter_manufacturer: Tuya
   stock_converter_model: WHD02
-  override_z2m_device: LUMI
+  override_z2m_device: ZG-301Z
   tuya_module: none
   mcu_family: Telink
-  mcu: TLSR825x
+  mcu: TLSR8253F512AT32
   config_str: LUMI;lumi.switch.b2nc01;BD3u;LD4i;SB6u;RA1;SB5u;RD7;
   alt_config_str: null
   old_manufacturer_names: null
@@ -41,3 +27,4 @@ AQARA_E1:
   - https://github.com/romasku/tuya-zigbee-switch/issues/189
   - https://github.com/romasku/tuya-zigbee-switch/issues/289
   store: null
+ 
