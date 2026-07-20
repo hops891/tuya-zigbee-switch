@@ -230,7 +230,7 @@ class CustomWindowCoveringCluster(CustomCluster, WindowCovering):
 ``````````````````````````````````````````````````````````````````'''
 
 CONFIGS = [
-    "LUMI;lumi.switch.b2nc01;BD3u;LD4i;SB6u;RA1;SB5u;RD7;",
+    "ZG-301Z;TS0002-HOB;BD3u;LD4i;SB6u;RA1;SB5u;RD7;",
 ]
 
 for config in CONFIGS:

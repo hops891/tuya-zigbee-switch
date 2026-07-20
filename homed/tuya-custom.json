@@ -1,9 +1,9 @@
 {
-  "LUMI": [
+  "ZG-301Z": [
     {
       "description": "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
       "modelNames": [
-        "lumi.switch.b2nc01"
+        "TS0002-HOB"
       ],
       "options": {
         "endpointName": {
@@ -16,7 +16,7 @@
     },
     {
       "modelNames": [
-        "lumi.switch.b2nc01"
+        "TS0002-HOB"
       ],
       "exposes": [
         "multiPressResetCount",
@@ -52,7 +52,7 @@
     },
     {
       "modelNames": [
-        "lumi.switch.b2nc01"
+        "TS0002-HOB"
       ],
       "properties": [
         "status",
@@ -89,7 +89,7 @@
     },
     {
       "modelNames": [
-        "lumi.switch.b2nc01"
+        "TS0002-HOB"
       ],
       "exposes": [
         "pressAction",

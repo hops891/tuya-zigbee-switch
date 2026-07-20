@@ -360,7 +360,7 @@ const romasku = {
 const definitions = [
     {
         zigbeeModel: [
-            "lumi.switch.b2nc01",
+            "TS0002-HOB",
         ],
         model: "ZG-301Z",
         vendor: "Tuya-custom",
